@@ -4,3 +4,5 @@
 - `.terraform/` каталоги
 - файлы состояния `.tfstate`
 - логи и настройки CLI
+
+This is a fix branch created for testing purposes.
